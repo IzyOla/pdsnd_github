@@ -6,6 +6,7 @@ CITY_DATA = { 'Chicago': 'chicago.csv',
               'New York City': 'new_york_city.csv',
               'Washington': 'washington.csv' }
 
+# read_response function
 def read_response(usr_input, category):
     """
     Read user input and analyze
