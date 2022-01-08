@@ -32,6 +32,7 @@ def read_response(usr_input, category):
             print("Incorrect response recorded")
     return user_input
 
+# get_filters function
 def get_filters():
     """
     Asks user to specify a city, month, and day to analyze.
